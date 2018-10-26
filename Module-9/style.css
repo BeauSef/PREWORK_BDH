@@ -1,0 +1,41 @@
+
+h1 {
+   text-align: center; 
+}
+.red{
+    color:red;
+}
+.blue{
+    color:blue;
+}
+.green{
+    color:green;
+}
+.BIG{
+    font-size: 30px;
+}
+.tiny{
+    font-size: 8px;
+}
+.centered{
+    text-align: center;
+}
+.Bold{
+    font-weight:Bold;
+}
+.font{
+    font-family: 'Courier New', Courier, monospace;
+}
+.multiple{
+    color:orange;
+    font-weight: bold;
+    font-size: 30;
+}
+.styledFont{
+    color: green;
+}
+.image{
+    border-width: 20px;
+    border-style: solid;
+    border-color: red
+}
